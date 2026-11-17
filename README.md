@@ -34,7 +34,7 @@
 
 - **Backend:** Python, aiogram 3, Telegram Bot API, SQLite, интеграции API
 - **Frontend:** HTML / CSS / JavaScript, Telegram Mini Apps, Tailwind
-- **ИИ:** Gemini и другие модели: генерация и рерайт контента, модерация
+- **ИИ:** Gemini, claude, chatgpt и другие модели: генерация и рерайт контента, модерация
 - **Инфраструктура:** Docker, Docker Compose, Cloudflare, запуск на Windows через BAT
 - **Автоматизация:** RSS-парсинг, дедупликация, планировщики, экспорт в Excel (openpyxl)
 - **Дизайн:** баннеры, карточки, оформление под заказ
